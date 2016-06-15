@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+target "IOSChallange" do
+	pod 'SBPickerSelector'
+	pod 'SVProgressHUD'
+	pod 'SwiftDate'
+    pod 'Alamofire'
+	pod 'ForecastIOClient'
+	pod 'SwiftyJSON', :git => 'https://github.com/SwiftyJSON/SwiftyJSON.git'
+end
