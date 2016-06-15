@@ -36,9 +36,16 @@ Your time is valuable and we understand that.  Our goal is for you to spend abou
 Please answer the following in about a paragraph.
 
 1.  How long did you spend on completing this challenge?
+    It took 5 hours completing challange.
 2.  How far were you at 3 hours?
+    I was able to connect to the API, and get the data i need. at the dead line of 3 hours i was fixing some constraints in the layout.
 3.  What needs to be finished/fixed for this to be use in a production app?
+    I have to read the icons from the API and display it depending on the weather circunstances.
 4.  What did you think of this challenge?
+    It was good, but i would like to improve the weather icons.
 5.  What part was unclear?
+    Almost every thing was clear. there were just two labels in the mocks that i did not understand. the south label of the compass and the label near the green bullet.
 6.  What could we do to make this challenge better?
+    Improve the icons and give the developer at least one hint for each label. 
 7.  What did we forget to test you on?
+    I did not forget, but i'm not sure how to develop unit testing. at least i don't know if the way i do is the best way to do it.
